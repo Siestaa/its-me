@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/its-me/static/css/main.02badb6e.css",
+    "main.js": "/its-me/static/js/main.350d5cfd.js",
+    "static/media/form-back.jpg": "/its-me/static/media/form-back.8b35a9da008f485f2f41.jpg",
+    "static/media/work-2.jpg": "/its-me/static/media/work-2.0271bca755162a14eadb.jpg",
+    "static/media/its-me.png": "/its-me/static/media/its-me.dc824a20defd4634fb6c.png",
+    "static/media/work-3.jpg": "/its-me/static/media/work-3.2d1e608b4093eea09b29.jpg",
+    "static/media/whatsup.svg": "/its-me/static/media/whatsup.8e5d3da4c1a2e1b0fa4b155c7b7b7c3c.svg",
+    "static/media/work-1.jpg": "/its-me/static/media/work-1.d8d6bc75b0e5f5c6cc02.jpg",
+    "static/media/Neucha.eot": "/its-me/static/media/Neucha.ba82499d3462cf300dec.eot",
+    "static/media/Neucha.ttf": "/its-me/static/media/Neucha.246871cc2ba3658a5b12.ttf",
+    "static/media/Neucha.woff": "/its-me/static/media/Neucha.d6b97160609400910a41.woff",
+    "static/media/flying-bird.svg": "/its-me/static/media/flying-bird.579440de6c0438f40b2b.svg",
+    "static/media/telegram.svg": "/its-me/static/media/telegram.6001b3f883d0c3abcf657340b1e4fc59.svg",
+    "static/media/vk.svg": "/its-me/static/media/vk.2756c275a943c222ae0d1c119943f2ad.svg",
+    "index.html": "/its-me/index.html",
+    "main.02badb6e.css.map": "/its-me/static/css/main.02badb6e.css.map",
+    "main.350d5cfd.js.map": "/its-me/static/js/main.350d5cfd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02badb6e.css",
+    "static/js/main.350d5cfd.js"
+  ]
+}
